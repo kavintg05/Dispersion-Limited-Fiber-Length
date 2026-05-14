@@ -8,11 +8,13 @@ Simulate the resulting system and verify that it meets performance objective.
 # Theory: 
 The maximum allowable dispersion (or pulse spread) <img width="76" height="52" alt="image" src="https://github.com/user-attachments/assets/52dff457-e7aa-4312-aef4-aa4e234afb47" /> is given in terms of the transmission rate R by the following engineering guideline <img width="192" height="124" alt="image" src="https://github.com/user-attachments/assets/4fcb3de9-6a4a-48db-ba5f-f020a6c85d8b" /> This guideline provides reasonable assurance that there will be no significant inter
 symbol interference (ISI) due to pulse spread. 
- 
 For standard single-mode fiber driven by a directly-modulated laser diode transmitter, the 
 pulse spread due to chromatic dispersion is given by
+
 <img width="898" height="694" alt="image" src="https://github.com/user-attachments/assets/5499f4b0-2405-4a5f-b773-ce004a76e850" />
+
 <img width="1300" height="974" alt="image" src="https://github.com/user-attachments/assets/bbd90891-43d6-4a5d-92d2-73ed3e4e57eb" />
+
 # Layout: 
 Open up the OptiPerformer file called “Dispersion Limited Fiber.osp”. This layout uses 
 the Laser Rate Equations laser diode component with default parameters.  It models a 
