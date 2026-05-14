@@ -1,15 +1,12 @@
 # Dispersion-Limited-Fiber-Length
 Dispersion Limited Fiber Length
-# Objective: 
- 
+# Objective:  
 Calculate the dispersion-limited fiber length for a fiber optic transport system that 
 employs standard single-mode fiber and a directly-modulated single-mode laser diode 
-transmitter. 
- 
+transmitter.  
 Simulate the resulting system and verify that it meets performance objective.  
- 
+
 # Theory: 
- 
 The maximum allowable dispersion (or pulse spread) <img width="76" height="52" alt="image" src="https://github.com/user-attachments/assets/52dff457-e7aa-4312-aef4-aa4e234afb47" /> is given in terms of the transmission rate R by the following engineering guideline <img width="192" height="124" alt="image" src="https://github.com/user-attachments/assets/4fcb3de9-6a4a-48db-ba5f-f020a6c85d8b" /> This guideline provides reasonable assurance that there will be no significant inter
 symbol interference (ISI) due to pulse spread. 
  
@@ -39,4 +36,17 @@ Using the chromatic dispersion factor equation, determine the dispersion of the 
 Using the equations above, determine the dispersion-limited fiber length. 
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
 # Tabulation
+<img width="1114" height="1599" alt="image" src="https://github.com/user-attachments/assets/b0832d53-c875-4a22-b994-097b2f1df087" />
+<img width="1558" height="1600" alt="image" src="https://github.com/user-attachments/assets/80cd11ed-247c-4b87-bd87-1a0a8e7cdc6d" />
+<img width="1599" height="983" alt="image" src="https://github.com/user-attachments/assets/5063f546-3dbf-405a-9eb7-0bbd75569a68" />
+
+# Output
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/82d84a4d-a026-4e02-97f8-87cacb8c7683" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/aa5a9fee-8796-46f0-9573-724ef4f8366d" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/88abbfc9-9436-47d3-a058-998a70dc8122" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/5c1a08f1-9859-4869-91c6-a0779544f91d" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/fc750015-55cb-48f6-b966-74ad55043fe3" />
+
 # Result
+The dispersion limited fiber length was found to be 9.82 km.
+As fiber length increased, pulse spreading increased and system performance degraded.
