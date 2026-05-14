@@ -5,7 +5,6 @@ Calculate the dispersion-limited fiber length for a fiber optic transport system
 employs standard single-mode fiber and a directly-modulated single-mode laser diode 
 transmitter.  
 Simulate the resulting system and verify that it meets performance objective.  
-
 # Theory: 
 The maximum allowable dispersion (or pulse spread) <img width="76" height="52" alt="image" src="https://github.com/user-attachments/assets/52dff457-e7aa-4312-aef4-aa4e234afb47" /> is given in terms of the transmission rate R by the following engineering guideline <img width="192" height="124" alt="image" src="https://github.com/user-attachments/assets/4fcb3de9-6a4a-48db-ba5f-f020a6c85d8b" /> This guideline provides reasonable assurance that there will be no significant inter
 symbol interference (ISI) due to pulse spread. 
@@ -27,6 +26,7 @@ directly observe the changes in the pulses due fiber dispersion. The “Optical 
 Analyzer” allows the user to view the spectral content of the signal. It this lab it is used to 
 verify that the spectral width is about 6 nm. The “BER analyzer” provides calculations of 
 the Q factor, the bit error rate (BER) and provides a plot of the eye diagram. 
+
 # Simulation:  
 Set the laser power such to achieve a transmitter output power of 0 dBm. The transmitter 
 power can be viewed by double clicking the “Output Power Meter Visualizer.” The 
@@ -35,6 +35,7 @@ Using the chromatic dispersion factor equation, determine the dispersion of the 
 1550 nm and set the fiber dispersion parameter accordingly. 
 Using the equations above, determine the dispersion-limited fiber length. 
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
+
 # Tabulation
 <img width="1114" height="1599" alt="image" src="https://github.com/user-attachments/assets/b0832d53-c875-4a22-b994-097b2f1df087" />
 <img width="1558" height="1600" alt="image" src="https://github.com/user-attachments/assets/80cd11ed-247c-4b87-bd87-1a0a8e7cdc6d" />
