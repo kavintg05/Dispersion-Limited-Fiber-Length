@@ -40,14 +40,20 @@ Using the equations above, determine the dispersion-limited fiber length.
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
 
 # Tabulation
+
 <img width="1114" height="1599" alt="image" src="https://github.com/user-attachments/assets/b0832d53-c875-4a22-b994-097b2f1df087" />
+
 <img width="1558" height="1600" alt="image" src="https://github.com/user-attachments/assets/80cd11ed-247c-4b87-bd87-1a0a8e7cdc6d" />
+
 <img width="1599" height="983" alt="image" src="https://github.com/user-attachments/assets/5063f546-3dbf-405a-9eb7-0bbd75569a68" />
 
 # Output
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/82d84a4d-a026-4e02-97f8-87cacb8c7683" />
+
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/aa5a9fee-8796-46f0-9573-724ef4f8366d" />
+
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/88abbfc9-9436-47d3-a058-998a70dc8122" />
+
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/5c1a08f1-9859-4869-91c6-a0779544f91d" />
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/fc750015-55cb-48f6-b966-74ad55043fe3" />
 
